@@ -12,7 +12,11 @@
 		{
 			"Target": "Parameter",
 			"Name": "LipSync",
-			"Ids": []
+			"Ids": [
+				"ParamEyeLSmile",
+				"ParamEyeRSmile",
+				"ParamMouthOpenY"
+			]
 		},
 		{
 			"Target": "Parameter",
